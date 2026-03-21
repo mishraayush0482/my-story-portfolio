@@ -19,9 +19,9 @@ const AboutSection = () => {
           <div className="grid md:grid-cols-3 gap-8">
             <div className="md:col-span-2">
               <p className="text-muted-foreground leading-relaxed text-lg">
-                I am a dedicated and detail-oriented B.Tech student currently in
-                my 6th semester, eager to apply my technical knowledge and
-                problem-solving skills in a practical environment. I am seeking
+                I am a dedicated and detail-oriented B.Tech student ,
+                eager to apply my technical knowledge and problem-solving 
+                skills in a practical environment. I am seeking
                 an internship opportunity to gain hands-on experience and
                 contribute to innovative projects. I am a quick learner, a team
                 player, and committed to continuous learning and professional
